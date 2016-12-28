@@ -1,10 +1,9 @@
 # [simter-boot](https://github.com/simter/simter-boot)
 
-Create stand-alone App.
+A stand-alone App parent pom base on spring-boot.
 
-## Build And Run It
+## Build
 
 ```
-mvn clean package
-java -jar target/simter-boot-[version].jar
+mvn clean install
 ```
